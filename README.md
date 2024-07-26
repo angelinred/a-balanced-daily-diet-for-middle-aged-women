@@ -86,7 +86,7 @@ Creating a balanced daily diet application involves several steps, including def
 
 Here's an outline of the necessary code, including a simple frontend and backend using Python (Flask for the backend and HTML/CSS for the frontend):
 
-Running the Application
+Running the Application.
 1 Save the backend code to a file named app.py.
 2 Create a directory named templates in the same directory as app.py.
 3 Save index.html and meal_plan.html inside the templates directory.
